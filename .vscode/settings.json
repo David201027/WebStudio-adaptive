@@ -18,6 +18,6 @@
     ],
     "liveSassCompile.settings.generateMap": true,
     "liveSassCompile.settings.autoprefix": null,
-    "liveServer.settings.port": 5500,
+    "liveServer.settings.port": 5501,
     "editor.cursorBlinking": "blink"
 }
